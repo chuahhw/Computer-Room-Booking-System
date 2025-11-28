@@ -64,14 +64,16 @@ Admins can:
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/computer-room-booking-system.git
+```
 
 2. Compile the program:
 ```bash
 g++ *.cpp -o bookingSystem
+```
 
 3. Run:
 ```bash
 ./bookingSystem
-
+```
 
 
