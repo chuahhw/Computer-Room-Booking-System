@@ -39,6 +39,7 @@ Admins can:
 ---
 
 ## 📂 Project Structure
+```bash
 /ComputerRoomBookingSystem
 │── main.cpp
 │── student.h
@@ -65,9 +66,11 @@ Admins can:
 git clone https://github.com/yourusername/computer-room-booking-system.git
 
 2. Compile the program:
+```bash
 g++ *.cpp -o bookingSystem
 
 3. Run:
+```bash
 ./bookingSystem
 
 
